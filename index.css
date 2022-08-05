@@ -130,7 +130,8 @@ a {
 }
 
 .w3-content{
-  margin-left: 75px;
+  margin-left: 175px;
+  position: relative;
 }
 #products h1{
   text-align: center;
@@ -142,4 +143,5 @@ a {
   width: 100%;
   background-color: purple;
   margin-top: -20px;
+  
 }
