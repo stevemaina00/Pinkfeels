@@ -75,7 +75,7 @@ a {
     justify-content: space-around;
     background-image: url('https://media.istockphoto.com/photos/women-is-holding-handbag-near-luxury-car-picture-id1271796113?b=1&k=20&m=1271796113&s=170667a&w=0&h=9vvvXq3GIokXs66KpwgKfJoIDYyQW9TEBXOWZSXhzX0=');
     background-repeat: no-repeat;
-    background-attachment: fixed;  
+    background-attachment: scroll;  
     background-size: cover;
     height: 500px;
     color: #FAFAFA;
@@ -102,12 +102,13 @@ a {
 
 }
 #bar {
-  width: 1350px;
+  width: 1291px;
   height: 40px;
-  background-color: purple;
+  background-color: pink;
   animation-name: example;
   animation-duration: 10s;
   padding-top: 20px;
+
 }
 
 #bar p{
@@ -128,3 +129,17 @@ a {
   100%  {background-color: pink;}
 }
 
+.w3-content{
+  margin-left: 75px;
+}
+#products h1{
+  text-align: center;
+  color: pink;
+}
+#products{
+  box-sizing: border-box;
+  height: 750px;
+  width: 100%;
+  background-color: purple;
+  margin-top: -20px;
+}
