@@ -135,13 +135,19 @@ a {
 }
 #products h1{
   text-align: center;
-  color: pink;
+  color: black;
 }
 #products{
   box-sizing: border-box;
   height: 750px;
   width: 100%;
-  background-color: purple;
+  background-color: whitesmoke;
   margin-top: -20px;
   
+}
+#footer {
+  box-sizing: border-box;
+  height: 200px;
+  width: 100%;
+  background-color: pink;
 }
