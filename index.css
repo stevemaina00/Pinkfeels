@@ -59,7 +59,7 @@ body {
 
 }
 li a:hover {
-  background-color: wheat;
+  background-color: pink;
 }
 
 
@@ -70,14 +70,16 @@ a {
 }
 
 .nav-hover:hover {
-    text-decoration: overline;
-    color: #2549D3;
+  text-decoration: wavy;
+    color: white;
 }
 #home{
     justify-content: space-around;
     background-image: url('https://media.istockphoto.com/photos/women-is-holding-handbag-near-luxury-car-picture-id1271796113?b=1&k=20&m=1271796113&s=170667a&w=0&h=9vvvXq3GIokXs66KpwgKfJoIDYyQW9TEBXOWZSXhzX0=');
     background-repeat: no-repeat;
     background-attachment: scroll;  
+    background-position: center;
+    position: relative;
     background-size: cover;
     height: 500px;
     color: #FAFAFA;
