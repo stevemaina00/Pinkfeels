@@ -127,9 +127,9 @@ a {
 }
 
 @keyframes example {
-  0%  {background-color: grey;}
-  25%  {background-color: green;}
-  50%  {background-color: Blue;}
+  15%  {background-color: red;}
+  25%  {background-color: rgb(3, 128, 3);}
+  50%  {background-color: yellow;}
   100%  {background-color: pink;}
 }
 
