@@ -181,3 +181,14 @@ a {
   margin-top: 320px;
   margin-left: 530px;
 }
+button{
+  border-radius: 250px;
+  margin-left: 100px;
+  height: 40px;
+  width: 150px;
+  text-align: center;
+  background-color: purple;
+  color: white;
+  font-weight: bold;
+
+}
