@@ -2,8 +2,10 @@
 
 body {
     background-color: #FAFAFA;
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif;
     font-family: 'Space Grotesk', sans-serif;
 
 }
@@ -106,7 +108,7 @@ a {
   height: 40px;
   background-color: pink;
   animation-name: example;
-  animation-duration: 5s;
+  animation-duration: 3s;
   padding-top: 20px;
 
 }
